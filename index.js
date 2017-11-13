@@ -8,6 +8,6 @@ function setBestCustomer() {
   bestCustomer = 'not bob';
 }
 
-function overweriteBestCustomer() {
+function overwriteBestCustomer() {
   bestCustomer = 'not not bob';
 }
