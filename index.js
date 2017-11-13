@@ -7,3 +7,7 @@ function upperCaseCustomerName(lowercaseName) {
 function setBestCustomer() {
   bestCustomer = 'not bob';
 }
+
+function overweriteBestCustomer() {
+  bestCustomer = 'not not bob';
+}
